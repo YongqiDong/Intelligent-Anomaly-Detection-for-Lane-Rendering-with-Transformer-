@@ -1,3 +1,9 @@
+This is the code demo for the paper:  
+_Dong, Y., Lu, X., Li, R., Song, W., van Arem, B. and Farah, H., 2023. Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. [arXiv preprint arXiv:2312.04398](https://arxiv.org/abs/2312.04398)_.
+
+
+
+
 # Prepare environment
 
 pytorch version: 1.8.1+cu111
